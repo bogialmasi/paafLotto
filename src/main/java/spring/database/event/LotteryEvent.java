@@ -13,3 +13,5 @@ public class LotteryEvent<T> extends ApplicationEvent {
         this.data = event;
     }
 }
+
+
