@@ -23,3 +23,5 @@ public class LotteryEventPublisher {
         LotteryEventPublisher.publishEvent(new LotteryEvent<LogData>(LogData.builder().data(dataMap).build()));
     }
 }
+
+
